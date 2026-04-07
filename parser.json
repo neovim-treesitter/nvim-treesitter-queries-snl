@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/minijackson/tree-sitter-snl",
-  "semver": false,
   "parser_version": "846e2d6809ac5863a15b5494f20fd267c21221c8",
   "location": null,
-  "lang": "snl"
+  "url": "https://github.com/minijackson/tree-sitter-snl",
+  "lang": "snl",
+  "semver": false
 }
